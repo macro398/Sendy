@@ -1,5 +1,5 @@
 # Sendy
-This is a project created to impliment the use of Sendy to replace an existing newsletter and marketting tool. 
+This is a project created to impliment the use of Sendy to replace an existing newsletter and marketting tool made using a combination of C#, SQL, and HTML.
 
 The project scrapes the raw http from a wordpress website and takes individual posts, in this case books, and creates newsletters in Sendy with appropriate subscribers based off 
 the book's genre and combines multiple books and genres into the same email depending on customer interests. 
