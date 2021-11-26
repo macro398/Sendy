@@ -1,0 +1,34 @@
+E:\1531\Static Newsletter Pieces\Footer.html
+E:\1531\Static Newsletter Pieces\Header.html
+E:\1531\1531Entertainment.exe
+E:\1531\1531Entertainment.dll
+E:\1531\1531Entertainment.deps.json
+E:\1531\1531Entertainment.runtimeconfig.json
+E:\1531\1531Entertainment.pdb
+E:\1531\BouncyCastle.Crypto.dll
+E:\1531\Google.Protobuf.dll
+E:\1531\K4os.Compression.LZ4.dll
+E:\1531\K4os.Compression.LZ4.Streams.dll
+E:\1531\K4os.Hash.xxHash.dll
+E:\1531\Microsoft.Win32.SystemEvents.dll
+E:\1531\MySql.Data.dll
+E:\1531\Ubiety.Dns.Core.dll
+E:\1531\Zstandard.Net.dll
+E:\1531\Sendy.Client.dll
+E:\1531\Renci.SshNet.dll
+E:\1531\SshNet.Security.Cryptography.dll
+E:\1531\System.Configuration.ConfigurationManager.dll
+E:\1531\System.Drawing.Common.dll
+E:\1531\System.Security.AccessControl.dll
+E:\1531\System.Security.Cryptography.ProtectedData.dll
+E:\1531\System.Security.Permissions.dll
+E:\1531\System.Security.Principal.Windows.dll
+E:\1531\System.Windows.Extensions.dll
+E:\1531\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\1531\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1531\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1531\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\1531\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1531\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\1531\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\1531\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
